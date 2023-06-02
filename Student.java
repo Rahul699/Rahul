@@ -6,6 +6,7 @@ public class Student {
         return name;
     }
     public void setName(String newName) {
+
         name=newName;
     }
     public static void main(String[] args) {
