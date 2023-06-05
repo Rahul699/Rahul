@@ -1,3 +1,5 @@
+package com.backend.week1;
+
 public class product {
     double price;
 

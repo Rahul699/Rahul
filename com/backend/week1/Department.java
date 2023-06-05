@@ -1,3 +1,5 @@
+package com.backend.week1;
+
 abstract public class Department{
 
     public abstract int getDepartment();
