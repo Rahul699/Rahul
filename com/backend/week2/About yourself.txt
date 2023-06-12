@@ -1,0 +1,19 @@
+INTRODUCTION:
+
+Iam Rahul Kappala. I have 9 of years of experience years of working experience in full stack software development. I have worked in several domains such as Banking, Insurance and  Healthcare. My expertise mainly lies in working on backend platforms with microservices, APIs and data driven systems and I also worked on the front-end using JavaScript, Typescript, and frameworks like Angular, React and Node.
+
+In my current role I’m working as a full-stack developer for CIS Technologies in the development  team where I designed and developed several backend features and worked on enhancing and creating new APIs for the platform.
+
+DOMAIN:
+
+I worked in Wells Fargo which is a banking company. I worked on their money movement platform which is responsible for moving funds to and from Wells Fargo bank accounts. We support several programs such as ACH(automated clearing house), Overdraft, Bill Pay and Instant Funding based on the speed, cost, and the type of transfer the user opts for. We internally integrate with network rails such as Mastercard and Visa and facilitate these money movement operations.
+
+I was also responsible for helping with migration from legacy monolithic to microservices based architecture. Most of these newer services are containerized in Docker and these Docker images are orchestrated through Kubernetes. In our current project we are using  AWS cloud platform and I have also worked on most of their service offerings. 
+
+
+We also followed TDD/BDD and Agile in this project and in this role, I had the chance to work on some interesting initiatives and solved some challenging problems. 
+
+In general, I enjoy working in collaborative and challenging environments where there is a lot to learn and where there is an opportunity to deliver something meaningful.
+
+
+
