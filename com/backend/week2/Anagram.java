@@ -59,8 +59,8 @@ public class Anagram {
 		
 
 	public static void main(String[] args) {
-		String[] inputArray = {"R","A","C","E"};
-		String[] inputArray1 = {"C","A","R","E"};
+		String[] inputArray = {"P","H","O","N","E"};
+		String[] inputArray1 = {"E","N","O","H","P"};
 		Anagram a=new Anagram();
 		a.sortn(inputArray1);
 		a.sortn1(inputArray);
